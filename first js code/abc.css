@@ -1,0 +1,29 @@
+#header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+    padding: 7%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    
+    color: aquamarine;
+    background-color: black;
+}
+
+#textbox{
+    width: 70%;
+}
+#as{
+    width: 60px;
+    padding: 5px;
+    color: aqua;
+    background-color: black;
+    box-shadow: 2px 2px 1px aquamarine;
+}
+#as:hover{
+    box-shadow: 0px 0px 5px red;
+}
